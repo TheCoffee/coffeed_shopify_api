@@ -1,0 +1,10 @@
+{
+  "name": "coffeed_shopify_api",
+  "version": "1.0.0",
+  "description": "A nodejs app to connect to the Shopify Storefront API",
+  "main": "index.js",
+  "repository": "https://github.com/TheCoffee/coffeed_shopify_api.git",
+  "author": "Coffee",
+  "license": "MIT",
+  "private": false
+}
